@@ -161,9 +161,9 @@ urlpatterns = [
 
 ### Home Page:
  # WITHOUT OUTPUT:
-![WITHOUT OUTPUT](./without%20output.png)
+![WITHOUT OUTPUT](./with%20output.png)
   # WITH OUTPUT:
-![WITH OUTPUT](./with%20output.png)
+![WITH OUTPUT](./output.png)
 
 
 ## Result:
