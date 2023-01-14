@@ -160,9 +160,9 @@ urlpatterns = [
 ## OUTPUT:
 
 ### Home Page:
- # WITHOUT OUTPUT:
-![WITHOUT OUTPUT](./with%20output.png)
-  # WITH OUTPUT:
+ # WITHOUT NUMERICAL INPUT:
+![WITHOUT OUTPUT](./input.png)
+  # WITH NUMERICAL INPUT:
 ![WITH OUTPUT](./output.png)
 
 
